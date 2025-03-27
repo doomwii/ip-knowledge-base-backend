@@ -17,8 +17,8 @@
     }
   ],
   "env": {
-    "MONGODB_URI": "@mongodb_uri",
-    "JWT_SECRET": "@jwt_secret",
-    "NEXTAUTH_URL": "@nextauth_url"
+    "MONGODB_URI": "mongodb+srv://doomwang91:!!!!mima123456789@cluster0.mongodb.net/ip-knowledge-base?retryWrites=true&w=majority",
+    "JWT_SECRET": "ip-knowledge-base-secret-key-2025",
+    "NEXTAUTH_URL": "https://ip-knowledge-base-backend-nil4.vercel.app"
   }
 }
