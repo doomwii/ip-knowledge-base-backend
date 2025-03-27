@@ -1,0 +1,29 @@
+{
+  "name": "ip-knowledge-base-api",
+  "version": "1.0.0",
+  "description": "IP知识库后端API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "knowledge-base",
+    "api",
+    "nextjs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^14.0.0",
+    "mongoose": "^7.0.3",
+    "next-auth": "^4.22.0",
+    "bcryptjs": "^2.4.3",
+    "@tiptap/react": "^2.0.0",
+    "socket.io": "^4.6.1",
+    "dotenv": "^16.0.3",
+    "cors": "^2.8.5"
+  }
+}
